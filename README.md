@@ -35,10 +35,6 @@ Our solution automatically analyzes GitHub profiles, evaluates repositories usin
 
 ---
 
-## drive link 
-https://drive.google.com/file/d/13ANO2Hzgun5eFPFOYru3UaUUbHFdY2Ry/view?usp=drive_link
-
-
 ##  System Architecture
 
 ### High-Level Architecture
